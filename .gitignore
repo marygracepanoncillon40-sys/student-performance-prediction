@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.streamlit/secrets.toml
+student_data.csv
+student_model.pkl
+model_metrics.json
+model_metadata.json
